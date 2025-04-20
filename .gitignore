@@ -1,0 +1,46 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment and virtualenv files
+.env
+.env.*
+venv/
+virtualenv/
+*.venv
+
+# Testing and coverage files
+.coverage
+.tox/
+htmlcov/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.pydevproject
+*.pydevworkspace
+
+# Editor-specific files
+*~
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+setup.py
+dist/*
+build/*
+
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
