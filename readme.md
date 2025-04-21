@@ -1,5 +1,7 @@
 # PyCSVSummarizer
 
+[![PyPI version](https://img.shields.io/pypi/v/PyCSVSummarizer)](https://pypi.org/project/PyCSVSummarizer/)
+
 A simple Python package to **summarize CSV files** using various features.
 
 ---
